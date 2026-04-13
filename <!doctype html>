@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+  </head>
+  </head>
+  <body class="grid grid-cols-3 gap-1">
+    <div class="w-full h-20 border-5 justify-center flex items-center bg-pink-400">A</div>
+    <div class="w-full h-20 border-5 justify-center flex items-center bg-pink-400">B</div>
+    <div class="w-full h-20 border-5 justify-center flex items-center bg-pink-400">C</div>
+    <div class="w-full h-20 border-5 justify-center flex items-center bg-pink-400">D</div>
+    <div class="w-full h-20 border-5 justify-center flex items-center bg-pink-400">E</div>
+    <div class="w-full h-20 border-5 justify-center flex items-center bg-pink-400">F</div>
+    <div class="w-full h-20 border-5 justify-center flex items-center bg-pink-400">G</div>
+    <div class="w-full h-20 border-5 justify-center flex items-center bg-pink-400">H</div>
+    <div class="w-full h-20 border-5 justify-center flex items-center bg-pink-400">I</div>
+    <div class="w-full h-20 border-5 justify-center flex items-center bg-pink-400">J</div>
+  </body>
+</html>
